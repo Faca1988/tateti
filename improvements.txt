@@ -1,0 +1,8 @@
+Ideas de mejoras para hacer al juego de TA-TE-TI:
+
+* Mostrar la ubicación para cada movimiento en el formato (columna, fila) en la lista del historial de movimientos.
+* Convertir en negrita el elemento actualmente seleccionado en la lista de movimientos.
+* Reescribir el Board para usar 2 ciclos para hacer los cuadrados en vez de escribirlos a mano.
+* Agregar un botón de switch que te permita ordenar los movimientos en orden ascendente o descendente.
+* Cuando alguien gana, resaltar los 3 cuadrados que hicieron que gane.
+* Cuando nadie gana, mostrar un mensaje acerca de que el resultado es un empate.
